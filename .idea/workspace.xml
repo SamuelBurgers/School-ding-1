@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a495d7b5-d167-490a-9a03-267a7c45e04a" name="Changes" comment="" />
+    <list default="true" id="a495d7b5-d167-490a-9a03-267a7c45e04a" name="Changes" comment="womp womp" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,11 +55,32 @@
       <option name="presentableId" value="Default" />
       <updated>1725953627377</updated>
       <workItem from="1725953628462" duration="2034000" />
-      <workItem from="1725955698034" duration="5510000" />
+      <workItem from="1725955698034" duration="5828000" />
     </task>
+    <task id="LOCAL-00001" summary="womp womp">
+      <option name="closed" value="true" />
+      <created>1725961369009</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725961369009</updated>
+    </task>
+    <task id="LOCAL-00002" summary="womp womp">
+      <option name="closed" value="true" />
+      <created>1725961394357</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725961394357</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="womp womp" />
+    <option name="LAST_COMMIT_MESSAGE" value="womp womp" />
   </component>
 </project>
